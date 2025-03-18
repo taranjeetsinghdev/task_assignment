@@ -1,0 +1,97 @@
+
+.pro-sidebar {
+    background-color: #603AE5 !important;  /* ✅ Dark Purple */
+  }
+
+  .border-side {
+    border: 1px solid #f3f3f3;
+    border-radius: 5px;
+  }
+
+.links-btn {
+    color: #603AE5;
+    background: #ecebf1;
+    border: 2px solid white;
+    border-radius: 7px;
+    padding: 8px;
+    font-size: 0.8rem;
+  }
+
+  .links-btn-2 {
+    color: black;
+    background: f3f3f3;
+    border: 2px solid white;
+    border-radius: 7px;
+    padding: 8px;
+    font-size: 0.8rem;
+  }
+
+  .links-btn-3 {
+    color: white;
+    background: #603AE5;
+    border: 2px solid #603AE5;
+    border-radius: 7px;
+    padding: 8px;
+    font-size: 0.8rem;
+  }
+
+  .upload-section {
+    border: 2px dotted #ecebf1;
+    padding: 20px;
+    width: 100%;
+    max-width: 100%;
+    min-height: 150px;
+    text-align: center;
+    background-color: white; 
+    border-radius: 10px;
+    margin-top: 1rem;
+  }
+
+  .links-btn-4 {
+    background: #ecebf1;
+    border: 2px solid #ecebf1;
+    border-radius: 7px;
+    padding: 8px;
+    font-size: 0.8rem;
+  }
+
+  .custom-textarea {
+    border: none;         
+    border-bottom: 2px solid #f3f3f3;
+    outline: none; 
+    width: 100%; 
+    resize: none;    
+    background: transparent;
+    padding: 5px;   
+    font-size: 16px;
+    height: 5rem;
+  }
+  
+  .text-div {
+    color: #603AE5;
+    font-weight: bold;
+  }
+
+  .custom-input{
+    border: none;         
+    border-bottom: 2px solid #f3f3f3;
+    outline: none; 
+    width: 100%; 
+    resize: none;    
+    background: transparent;
+    padding: 5px;   
+    font-size: 16px;
+  }
+
+
+  .owner-input{
+    border: none;         
+    border-bottom: 2px solid #f3f3f3;
+    outline: none; 
+    width: 20rem; 
+    resize: none;    
+    background: transparent;
+    padding: 5px;   
+    font-size: 16px;
+  }
+  
